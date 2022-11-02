@@ -152,26 +152,27 @@ body {
     text-align: center; 
 }
 
-.section-features,
+/*.section-features,
 .section-projects {
     padding-top: 52px;
-}
+}*/
 
 .section-features,
 .section-projects,
 .section-team,
 .section-work {
     padding-bottom: 94px;
+    padding-top: 94px;
 }
 
-.section-team {
+/*.section-team {
     padding-top: 94px;
 }
 
 .section-features .section-title,
 .section-projects .section-title {
     color: transparent;
-}
+}*/
 
 .section-work .section-title,
 .section-team .section-title {
