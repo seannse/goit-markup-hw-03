@@ -327,6 +327,7 @@ body {
     text-align: center;
     font-family: inherit;
     letter-spacing: inherit;
+    cursor: pointer;
 
     border-radius: 4px;
     padding-top: 6px;
